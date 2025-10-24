@@ -1,0 +1,66 @@
+{
+  "categories": {
+    "coffee": {
+      "title": "Kaffee Spezialitäten",
+      "items": [
+        { "name": "Espresso", "description": "Klassischer italienischer Espresso" },
+        { "name": "Cappuccino", "description": "Mit perfektem Milchschaum" },
+        { "name": "Latte Macchiato", "description": "Cremig und mild" },
+        { "name": "Americano", "description": "Espresso mit heißem Wasser" },
+        { "name": "Flat White", "description": "Doppelter Espresso mit Mikroschaum" },
+        { "name": "Filterkaffee", "description": "Frisch gebrühter Kaffee" }
+      ]
+    },
+    "tea": {
+      "title": "Teesorten",
+      "items": [
+        { "name": "Schwarzer Tee", "description": "Große Auswahl an Teesorten" },
+        { "name": "Grüner Tee", "description": "Verschiedene Sorten" },
+        { "name": "Kräutertee", "description": "Frische Kräutermischungen" },
+        { "name": "Früchtetee", "description": "Aromatisch und fruchtig" }
+      ]
+    },
+    "breakfast": {
+      "title": "Frühstück",
+      "items": [
+        { "name": "Brötchen", "description": "Frisch gebacken" },
+        { "name": "Croissants", "description": "Butterweich und knusprig" },
+        { "name": "Brezeln", "description": "Traditionell bayerisch" },
+        { "name": "Frühstücksplatte", "description": "Vollständiges Frühstück" }
+      ]
+    },
+    "pastries": {
+      "title": "Gebäck & Desserts",
+      "items": [
+        { "name": "Donuts", "description": "Hausgemacht" },
+        { "name": "Cookies", "description": "Frisch gebacken" },
+        { "name": "Brownies", "description": "Schokoladig und saftig" },
+        { "name": "Pudding", "description": "Cremig und lecker" },
+        { "name": "Börek", "description": "Traditionell türkisch" }
+      ]
+    },
+    "beverages": {
+      "title": "Getränke",
+      "items": [
+        { "name": "Frisch gepresster Orangensaft", "description": "Direkt aus der Orange" },
+        { "name": "Softdrinks", "description": "Verschiedene Sorten" },
+        { "name": "Wasser", "description": "Still oder sprudelnd" }
+      ]
+    },
+    "lunch": {
+      "title": "Mittagsgerichte",
+      "items": [
+        { "name": "Salate", "description": "Frisch und vielfältig" },
+        { "name": "Herzhafte Snacks", "description": "Wechselndes Angebot" }
+      ]
+    }
+  },
+  "features": [
+    "Große Auswahl an Teesorten",
+    "Guter Kaffee",
+    "Frühstück",
+    "Allein speisen",
+    "Geeignet zum Arbeiten am Laptop",
+    "Kostenloses WLAN"
+  ]
+}

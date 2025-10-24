@@ -1,0 +1,58 @@
+{
+  "name": "Melis Coffee",
+  "tagline": "Perfekter hausgemachter Kaffee in einem familiengeführten Café",
+  "description": "Willkommen bei Melis Coffee – Ihrem gemütlichen Café direkt am Ostseeplatz im Prenzlauer Berg. Wir sind ein familiengeführtes Café, das für seinen hervorragenden Kaffee, frische Backwaren und eine warme, einladende Atmosphäre bekannt ist. Ob Sie Ihr Frühstück genießen, entspannt arbeiten oder einfach nur einen perfekten Cappuccino trinken möchten – bei uns sind Sie herzlich willkommen!",
+  "contact": {
+    "address": "Greifswalder Str. 137, 10409 Berlin, Deutschland",
+    "phone": "+49 30 28506583",
+    "email": "info@meliscoffee.de",
+    "location_note": "Direkt am Ostseeplatz, im Ärztehaus am Ostseeplatz"
+  },
+  "hours": {
+    "note": "Bitte besuchen Sie uns oder rufen Sie an für aktuelle Öffnungszeiten"
+  },
+  "social_media": {
+    "instagram": "https://www.instagram.com/explore/locations/5792995/melis-coffee/",
+    "facebook": "https://www.facebook.com/pages/Melis-Coffee/144906912229481"
+  },
+  "features": [
+    {
+      "icon": "coffee",
+      "title": "Exzellenter Kaffee",
+      "description": "Perfekt gebrühter Kaffee und Cappuccino mit großartigem Schaum"
+    },
+    {
+      "icon": "pastry",
+      "title": "Frische Backwaren",
+      "description": "Hausgemachte Donuts, Cookies, Brownies und traditionelles Börek"
+    },
+    {
+      "icon": "breakfast",
+      "title": "Leckeres Frühstück",
+      "description": "Frische Brötchen, Croissants, Brezeln und Frühstücksplatten"
+    },
+    {
+      "icon": "tea",
+      "title": "Große Teeauswahl",
+      "description": "Vielfältige Auswahl an schwarzem, grünem, Kräuter- und Früchtetee"
+    },
+    {
+      "icon": "wifi",
+      "title": "Kostenloses WLAN",
+      "description": "Schnelles und kostenloses WiFi – perfekt zum Arbeiten"
+    },
+    {
+      "icon": "friendly",
+      "title": "Familiär & Freundlich",
+      "description": "Herzlicher Service und einladende Atmosphäre"
+    }
+  ],
+  "unique_selling_points": [
+    "Familiengeführtes Café mit persönlicher Note",
+    "Faire Preise – günstiger als viele andere Cafés",
+    "Perfekter Ort zum Arbeiten mit Laptop",
+    "Gemütliche Atmosphäre zum Entspannen",
+    "Direkt am Ostseeplatz gelegen",
+    "Frisch gepresster Orangensaft direkt aus der Orange"
+  ]
+}

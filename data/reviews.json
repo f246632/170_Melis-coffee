@@ -1,0 +1,34 @@
+{
+  "google_rating": "4.4/5",
+  "total_reviews": "137+",
+  "reviews": [
+    {
+      "author": "Verified Customer",
+      "rating": 5,
+      "text": "Great local place for coffee and food. Pleasant owners and tasty coffee. Highly recommended!",
+      "date": "2024",
+      "platform": "Google"
+    },
+    {
+      "author": "Local Visitor",
+      "rating": 5,
+      "text": "Quality, warm, fresh flavors and smiling employees. The staff is gracious and the service is excellent.",
+      "date": "2024",
+      "platform": "Google"
+    },
+    {
+      "author": "Coffee Enthusiast",
+      "rating": 5,
+      "text": "Excellent coffee, tasty pastries, and fast — and free — wifi. Perfect spot for working or relaxing!",
+      "date": "2024",
+      "platform": "Google"
+    }
+  ],
+  "highlights": [
+    "Perfect homemade coffee in a family-run café",
+    "Reasonable prices - drinks cheaper than many other places",
+    "Great local atmosphere",
+    "Free wifi available",
+    "Friendly and gracious staff"
+  ]
+}
